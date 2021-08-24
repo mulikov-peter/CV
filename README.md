@@ -19,7 +19,7 @@ I’m JavaScript / React.js developer, team-player with a strong motivation, des
 ### LANGUAGES 
 - Ukrainian /Russian – native 
 - Polish – upper-intermediate  
-- English – intermediate 
+- English – intermediate
 - Spanish – basic 
 
 ### MY PROJECTS 
@@ -31,6 +31,14 @@ I’m JavaScript / React.js developer, team-player with a strong motivation, des
   Live demo: [GUESS COUNTRY](https://guess-country-v1.netlify.app/)
 - Cocktails. Rest API application for searching cocktails. 
   Live demo: [Cocktails](https://cocktails-v1.netlify.app/)
+ 
+### COURSES:
+- Udemy - The Complete JavaScript Course 2021: Jonas Schmedtmann.
+- Udemy - The Modern Javascript Bootcamp Course (2021): Colt Steele.
+- Udemy - React The Complete Guide (incl Hooks, React Router, Redux): Academind by Maximilian Schwarzmüller.
+- Udemy - Clean Code: Academind by Maximilian Schwarzmüller.
+- Udemy - Programowanie w JavaScrypt: Samuraj Programowania.
+- Udemy - React.js od podstaw: Samuraj Programowania.
 
 ### EDUCATION 2003 – 2008: 
 - 2003 - 2008: S.K. Kharkiv National University of Economics. Economics, master’s degree. 
