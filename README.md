@@ -45,10 +45,10 @@ I’m JavaScript / React.js developer, team-player with a strong motivation, des
 - 2008 – 2014: V.N. Karazin Kharkiv National University. Law, bachelor’s degree. 
 
 ### EXPERIENCE 
-- 03.2016 – present:  Nic Nowego Ltd. – Sous chef. 
-- 11.2012 – 10.2018: AD Forvard Ltd. – Selling manager. 
-- 10.2009 – 10.2012: Tax inspection – Police officer. 
-- 06.2009 – 10.2012: Finprofil Ltd. – Selling manager. 
+- 09.2021 – present: Freelance - Front-End developer.  
+- 03.2016 – 09.2021:  Nic Nowego Ltd. – Sous chef. 
+- 11.2012 – 02.2016: AD Forvard Ltd. – Selling manager. 
+- 10.2009 – 11.2012: Tax inspection – Police officer. 
 
 ---
 
